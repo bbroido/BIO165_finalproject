@@ -6,7 +6,7 @@ This repository sets out the skeleton of an organizational structure used for sc
 ## How to Use
 To use this template for your research, fork this repository, change the name
 to something descriptive for your project, and adjust the licensing as you
-see fit. Test test
+see fit.
 
 To use this repository for your own research, simply click "Use this template" 
 at the top of this page
